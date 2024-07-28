@@ -19,7 +19,7 @@
   --stroke-color: #27272A;
   --text-color-primary: #F4F4F5;
   --text-color-secondary: #A1A1AA;
-  --brand-color: #F7B733;
+  --brand-color-primary: #F7B733;
   --brand-color-secondary: #FC4A1A;
 
   --ff-sans: 'Inter', system-ui, sans-serif;
@@ -32,6 +32,13 @@
   --fs-lg: 1.25rem;
   --fs-xl: 1.5rem;
   --fs-2xl: 2.5rem;
+
+
+  --py-base: 1rem;
+  --py-lg:1.5rem;
+  --py-xl: 3rem;
+
+  --px-lg: 1.5rem;
 }
 
 html {
@@ -79,5 +86,11 @@ ul[role="list"] {
     --fs-lg: 2rem;
     --fs-xl: 3rem;
     --fs-2xl: 4em;
+
+    --py-base: 1.5rem;
+    --py-lg:2.5rem;
+    --py-xl: 5rem;
+  
+    --px-lg: 2rem;
   }
 }

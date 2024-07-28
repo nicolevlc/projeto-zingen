@@ -13,8 +13,22 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 </head>
 <body>
-  <ul role="list">
-    <li>Item</li>
-  </ul>
+  <div class="flex gap-1">
+    <a href="#" class="btn btn-sm">Label</a>
+    <span href="#" class="btn btn-md">Label</span>
+    <button href="#" class="btn btn-lg primary">Label</button>
+  </div>
+
+  <div class="flex gap-1">
+    <a
+      aria-label="Label"
+      href="#" class="btn btn-sm"></a>
+    <span
+      aria-label="Label"
+      href="#" class="btn btn-md"></span>
+    <button
+      aria-label="Label"
+      href="#" class="btn btn-lg primary"></button>
+  </div>
 </body>
 </html>
