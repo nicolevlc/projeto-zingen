@@ -8,6 +8,16 @@ Projeto realizado dentro do curso de Desenvolvimento Web (BetaHub) na plataforma
 
 <br/>
 
+## 💻 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- Figma
+
+<br/>
+
 ## 🎨 Protótipo
 
 O protótipo deste projeto foi criado no Figma e está disponível para visualização [aqui](https://www.figma.com/community/file/1371886246180677672). (Feito com amor por [Rocketseat](https://www.rocketseat.com.br) 💜).
@@ -17,3 +27,8 @@ O protótipo deste projeto foi criado no Figma e está disponível para visualiz
 ## 🚀 Visualizar o Projeto
 
 O projeto pode ser visualizado [aqui](https://nicolevlc.github.io/projeto-zingen/).
+
+<br/>
+
+## 📝 Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
