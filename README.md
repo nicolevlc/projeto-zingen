@@ -31,4 +31,4 @@ O projeto pode ser visualizado [aqui](https://nicolevlc.github.io/projeto-zingen
 <br/>
 
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo **LICENSE** para mais detalhes.
